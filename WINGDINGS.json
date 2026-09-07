@@ -3,6 +3,6 @@
   "name": "Wingdings",
   "description": "Wingdings font",
   "main": {
-    "Wingdings-Regular": "https://raw.githubusercontent.com/fidian/bin/master/conf/fonts/Wingdings/Wingdings-Regular.ttf"
+    "Wingdings-Regular": "https://cdn.jsdelivr.net/gh/fidian/bin@master/conf/fonts/Wingdings/Wingdings-Regular.ttf"
   }
 }
