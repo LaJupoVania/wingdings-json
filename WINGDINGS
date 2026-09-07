@@ -1,0 +1,8 @@
+{
+  "spec": 1,
+  "name": "Wingdings",
+  "description": "Wingdings font",
+  "main": {
+    "Wingdings-Regular": "https://raw.githubusercontent.com/fidian/bin/master/conf/fonts/Wingdings/Wingdings-Regular.ttf"
+  }
+}
